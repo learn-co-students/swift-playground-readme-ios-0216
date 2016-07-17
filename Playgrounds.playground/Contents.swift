@@ -1,2 +1,5 @@
 let str = "Hello, world"
-str = "Goodbye, world"
+
+var string = "Hello, world"
+
+string = "Hello, Earth"
